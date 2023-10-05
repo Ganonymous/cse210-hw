@@ -32,7 +32,7 @@ public class ReflectingActivity: Activity
         Console.Write("You may begin in: ");
         ShowCountDown(5);
         Console.Clear();
-        
+
         DateTime endTime = DateTime.Now.AddSeconds(_duration);
         while (DateTime.Now < endTime)
         {
@@ -55,9 +55,14 @@ public class ReflectingActivity: Activity
 
     private void DisplayRandomQuestion()
     {
-        int questionIndex = new Random().Next(_questions.Count);
-        Console.Write($"> {_questions[questionIndex]} ");
-        _questions.RemoveAt(questionIndex);
+        if(_questions.Count > 0)
+        {
+            int questionIndex = new Random().Next(_questions.Count);
+            Console.Write($"> {_questions[questionIndex]} ");
+            _questions.RemoveAt(questionIndex);
+        } else{
+            Console.Write("Sorry, out of questions, maybe think of your own?");
+        }
         ShowSpinner(12);
         Console.WriteLine();
     }
