@@ -108,9 +108,17 @@ class Program
                     }
                     break;
                 case 5:
-                    Console.WriteLine("Drafts aren't ready in time for checkpoint, sorry");
-                    Console.WriteLine("Press Enter to return to menu");
-                    Console.ReadLine();
+                    ReleaseSet draftSet = ChooseSet(availableSets);
+                    int draftType = ChooseBoosterType();
+                    while (draftType < 1 || draftType > 3)
+                    {
+                        Console.WriteLine($"{draftType} is not a valid choice. Try again.");
+                        draftType = ChooseBoosterType();
+                    }
+                    Console.Write("How many bots would you like to be in the draft? ");
+                    int bots = int.Parse(Console.ReadLine());
+                    DraftManager dm = new DraftManager(draftSet, draftType, bots);
+                    dm.RunDraft();
                     break;
                 case 6:
                     Console.WriteLine("Goodbye!");

@@ -1,0 +1,326 @@
+Wilds of Eldraine|WOE|Enchanting Tales|WOT
+Archon of the Wild Rose|white|rare
+Archon's Glory|white|common
+Armory Mice|white|common
+Besotted Knight//Betroth the Beast|white|common
+Break the Spell|white|common
+Charmed Clothier|white|common
+Cheeky House-Mouse//Squeak By|white|uncommon
+Cooped Up|white|common
+Cursed Courtier|white|uncommon
+Discerning Financier|white|uncommon
+Dutiful Griffin|white|uncommon
+Eerie Interference|white|uncommon
+Expel the Interlopers|white|rare
+Frostbridge Guard|white|common
+Gallant Pie-Wielder|white|uncommon
+Glass Casket|white|uncommon
+Hopeful Vigil|white|common
+Kellan's Lightblades|white|common
+Knight of Doves|white|uncommon
+Moment of Valor|white|common
+Moonshaker Cavalry|white|mythic
+Plunge into Winter|white|common
+The Princess Takes Flight|white|uncommon
+Protective Parents|white|common
+Regal Bunnicorn|white|rare
+Return Triumphant|white|common
+Rimefur Reindeer|white|common
+Savior of the Sleeping|white|common
+Slumbering Keepguard|white|common
+Solitary Sanctuary|white|uncommon
+Spellbook Vendor|white|rare
+Stockpiling Celebrant|white|common
+Stroke of Midnight|white|uncommon
+A Tale for the Ages|white|rare
+Three Blind Mice|white|rare
+Tuinvale Guide|white|common
+Unassuming Sage|white|common
+Virtue of Loyalty//Ardenvale Fealty|white|mythic
+Werefox Bodyguard|white|rare
+Aquatic Alchemist//Bubble Up|blue|common
+Archive Dragon|blue|uncommon
+Asinine Antics|blue|mythic
+Beluna's Gatekeeper//Entry Denied|blue|common
+Bitter Chill|blue|uncommon
+Chancellor of Tales|blue|uncommon
+Diminisher Witch|blue|common
+Disdainful Stroke|blue|uncommon
+Extraordinary Journey|blue|rare
+Farsight Ritual|blue|rare
+Freeze in Place|blue|common
+Gadwick's First Duel|blue|uncommon
+Galvanic Giant//Storm Reading|blue|uncommon
+Horned Loch-Whale//Lagoon Breach|blue|rare
+Ice Out|blue|common
+Icewrought Sentry|blue|uncommon
+Ingenious Prodigy|blue|rare
+Into the Fae Court|blue|common
+Johann's Stopgap|blue|common
+Living Lectern|blue|common
+Merfolk Coralsmith|blue|common
+Misleading Motes|blue|common
+Mocking Sprite|blue|common
+Obrya's Attendants//Desperate Parry|blue|common
+Picklock Prankster//Free the Fae|blue|uncommon
+Quick Study|blue|common
+Sleep-Cursed Faerie|blue|rare
+Sleight of Hand|blue|common
+Snaremaster Sprite|blue|common
+Spell Stutter|blue|common
+Splashy Spellcaster|blue|uncommon
+Stormkeld Prowler|blue|common
+Succumb to the Cold|blue|uncommon
+Talion's Messenger|blue|rare
+Tenacious Tomeseeker|blue|uncommon
+Vantress Transmuter//Croaking Curse|blue|common
+Virtue of Knowledge//Vantress Visions|blue|mythic
+Water Wings|blue|common
+Ashiok, Wicked Manipulator|black|mythic
+Ashiok's Reaper|black|uncommon
+Back for Seconds|black|uncommon
+Barrow Naughty|black|common
+Beseech the Mirror|black|mythic
+Candy Grapple|black|common
+Conceited Witch//Price of Beauty|black|common
+Dream Spoilers|black|uncommon
+Ego Drain|black|uncommon
+The End|black|rare
+Eriette's Whisper|black|common
+Faerie Dreamthief|black|uncommon
+Faerie Fencing|black|uncommon
+Feed the Cauldron|black|common
+Fell Horseman//Deathly Ride|black|common
+Gumdrop Poisoner//Tempt with Treats|black|rare
+High Fae Negotiator|black|uncommon
+Hopeless Nightmare|black|common
+Lich-Knights'Conquest|black|rare
+Lord Skitter, Sewer King|black|rare
+Lord Skitter's Blessing|black|rare
+Lord Skitter's Butcher|black|uncommon
+Mintstrosity|black|common
+Not Dead After All|black|common
+Rankle's Prank|black|rare
+Rat Out|black|common
+Rowan's Grim Search|black|common
+Scream Puff|black|common
+Shatter the Oath|black|common
+Specter of Mortality|black|rare
+Spiteful Hexmage|black|rare
+Stingblade Assassin|black|common
+Sugar Rush|black|common
+Sweettooth Witch|black|common
+Taken by Nightmares|black|uncommon
+Tangled Colony|black|rare
+Twisted Sewer-Witch|black|uncommon
+Virtue of Persistence//Locthwain Scorn|black|mythic
+Voracious Vermin|black|common
+Warehouse Tabby|black|common
+Wicked Visitor|black|common
+The Witch's Vanity|black|uncommon
+Belligerent of the Ball|red|uncommon
+Bellowing Bruiser//Beat a Path|red|common
+Bespoke Battlegarb|red|common
+Boundary Lands Ranger|red|uncommon
+Charming Scoundrel|red|rare
+Cut In|red|common
+Edgewall Pack|red|common
+Embereth Veteran|red|uncommon
+Flick a Coin|red|common
+Food Fight|red|rare
+Frantic Firebolt|red|common
+Gnawing Crescendo|red|common
+Goddric, Cloaked Reveler|red|rare
+Grabby Giant//That's Mine|red|common
+Grand Ball Guest|red|common
+Harried Spearguard|red|common
+Hearth Elemental//Stoke Genius|red|uncommon
+Imodane, the Pyrohammer|red|rare
+Kindled Heroism|red|common
+Korvold and the Noble Thief|red|uncommon
+Merry Bards|red|common
+Minecart Daredevil//Ride the Rails|red|common
+Monstrous Rage|red|uncommon
+Raging Battle Mouse|red|rare
+Ratcatcher Trainee//Pest Problem|red|common
+Realm-Scorcher Hellkite|red|mythic
+Redcap Gutter-Dweller|red|rare
+Redcap Thief|red|common
+Rotisserie Elemental|red|rare
+Skewer Slinger|red|common
+Song of Totentanz|red|rare
+Stonesplitter Bolt|red|uncommon
+Tattered Ratter|red|uncommon
+Torch the Tower|red|common
+Twisted Fealty|red|uncommon
+Two-Headed Hunter//Twice the Rage|red|uncommon
+Unruly Catapult|red|common
+Virtue of Courage//Embereth Blaze|red|mythic
+Witch's Mark|red|common
+Witchstalker Frenzy|red|uncommon
+Agatha's Champion|green|uncommon
+Beanstalk Wurm//Plant Beans|green|common
+Bestial Bloodline|green|common
+Blossoming Tortoise|green|mythic
+Bramble Familiar//Fetch Quest|green|rare
+Brave the Wilds|green|common
+Commune with Nature|green|common
+Curse of the Werefox|green|common
+Elvish Archivist|green|common
+Feral Encounter|green|rare
+Ferocious Werefox//Guard Change|green|common
+Graceful Takedown|green|uncommon
+Gruff Triplets|green|rare
+Hamlet Glutton|green|common
+Hollow Scavenger//Bakery Raid|green|common
+Howling Galefang|green|uncommon
+The Huntsman's Redemption|green|rare
+Leaping Ambush|green|common
+Night of the Sweet's Revenge|green|uncommon
+Redtooth Genealogist|green|common
+Redtooth Vanguard|green|uncommon
+Return from the Wilds|green|common
+Rootrider Faun|green|common
+Royal Treatment|green|uncommon
+Sentinel of Lost Lore|green|rare
+Skybeast Tracker|green|common
+Spider Food|green|common
+Stormkeld Vanguard//Bear Down|green|uncommon
+Tanglespan Lookout|green|uncommon
+Territorial Witchstalker|green|common
+Thunderous Debut|green|rare
+Titanic Growth|green|common
+Toadstool Admirer|green|common
+Tough Cookie|green|uncommon
+Troublemaker Ouphe|green|common
+Up the Beanstalk|green|uncommon
+Verdant Outrider|green|common
+Virtue of Strength//Garenbrig Growth|green|mythic
+Welcome to Sweettooth|green|uncommon
+Agatha of the Vile Cauldron|red/green|mythic
+The Apprentice's Folly|blue/red|rare
+Ash, Party Crasher|red/white|uncommon
+Eriette of the Charmed Apple|white/black|mythic
+Faunsbane Troll|black/green|rare
+The Goose Mother|green/blue|rare
+Greta, Sweettooth Scourge|black/green|uncommon
+Hylda of the Icy Crown|white/blue|mythic
+Johann, Apprentice Sorcerer|blue/red|uncommon
+Likeness Looter|blue/black|rare
+Neva, Stalked by Nightmares|white/black|uncommon
+Obrya, Dreaming Duelist|blue/black|uncommon
+Rowan, Scion of War|black/red|mythic
+Ruby, Daring Tracker|red/green|uncommon
+Sharae of Numbing Depths|white/blue|uncommon
+Syr Armont, the Redeemer|green/white|uncommon
+Talion, the Kindly Lord|blue/black|mythic
+Totentanz, Swarm Piper|black/red|uncommon
+Troyan, Gutsy Explorer|green/blue|uncommon
+Will, Scion of Peace|white/blue|mythic
+Yenna, Redtooth Regent|green/white|rare
+Beluna Grandsquall//Seek Thrills|green/blue/red|mythic
+Callous Sell-Sword//Burn Together|black/red|uncommon
+Cruel Somnophage//Can't Wake Up|blue/black|rare
+Decadent Dragon//Expensive Taste|black/red|rare
+Devouring Sugarmaw//Have for Dinner|white/black|rare
+Elusive Otter//Grove's Bounty|green/blue|rare
+Frolicking Familiar//Blow Off Steam|blue/red|uncommon
+Gingerbread Hunter//Puny Snack|black/green|uncommon
+Heartflame Duelist//Heartflame Slash|red/white|rare
+Imodane's Recruiter//Train Troops|red/white|uncommon
+Kellan, the Fae-Blooded//Birthright Boon|red/white|mythic
+Mosswood Dreadknight//Dread Whispers|black/green|rare
+Picnic Ruiner//Stolen Goodies|red/green|uncommon
+Pollen-Shield Hare//Hare Raising|green/white|rare
+Questing Druid//Seek the Beast|red/green|rare
+Scalding Viper//Steam Clean|blue/red|rare
+Shrouded Shepherd//Cleave Shadows|white/black|uncommon
+Spellscorn Coven//Take It Back|blue/black|uncommon
+Tempest Hart//Scan the Clouds|green/blue|uncommon
+Threadbind Clique//Rip the Seams|white/blue|uncommon
+Twining Twins//Swift Spiral|white/blue|rare
+Woodland Acolyte//Mend the Wilds|green/white|uncommon
+Agatha's Soul Cauldron|colorless|mythic
+Candy Trail|colorless|common
+Collector's Vault|colorless|uncommon
+Eriette's Tempting Apple|colorless|uncommon
+Gingerbrute|colorless|common
+Hylda's Crown of Winter|colorless|rare
+The Irencrag|colorless|rare
+Prophetic Prism|colorless|common
+Scarecrow Guide|colorless|common
+Soul-Guide Lantern|colorless|uncommon
+Syr Ginger, the Meal Ender|colorless|rare
+Three Bowls of Porrige|colorless|uncommon
+Crystal Grotto|colorless|common
+Edgewall Inn|colorless|uncommon
+Evolving Wilds|colorless|common
+Restless Bivouac|red/white|rare
+Restless Cottage|black/green|rare
+Restless Fortress|white/black|rare
+Restless Spire|blue/red|rare
+Restless Vinestalk|green/blue|rare
+Bonus:
+Blind Obedience|white|rare
+Dawn of Hope|white|rare
+Grasp of Fate|white|uncommon
+Greater Auramancy|white|mythic
+Griffin Aerie|white|uncommon
+Intangible Virtue|white|uncommon
+Karmic Justice|white|rare
+Knightly Valor|white|uncommon
+Land Tax|white|mythic
+Leyline of Sanctity|white|rare
+Phyrexian Unlife|white|rare
+Rest in Peace|white|rare
+Smothering Tithe|white|mythic
+As Foretold|blue|rare
+Compulsion|blue|uncommon
+Copy Enchantment|blue|rare
+Curiosity|blue|uncommon
+Forced Fruition|blue|rare
+Fraying Sanity|blue|rare
+Hatching Plans|blue|uncommon
+Intruder Alarm|blue|rare
+Kindred Discovery|blue|mythic
+Leyline of Anticipation|blue|rare
+Omniscience|blue|mythic
+Rhystic Study|blue|mythic
+Spreading Seas|blue|uncommon
+Bitterblossom|black|mythic
+Dark Tutelage|black|uncommon
+Grave Pact|black|mythic
+Leyline of the Void|black|rare
+Necropotence|black|mythic
+Oppression|black|rare
+Oversold Cemetary|black|rare
+Polluted Bonds|black|rare
+Sanguine Bond|black|rare
+Stab Wound|black|uncommon
+Vampiric Rites|black|uncommon
+Waste Not|black|rare
+Aggravated Assault|red|rare
+Blood Moon|red|mythic
+Dragon Mantle|red|uncommon
+Fiery Emancipation|red|rare
+Goblin Bombardment|red|rare
+Impact Tremors|red|uncommon
+Leyline of Lightning|red|rare
+Mana Flare|red|rare
+Raid Bombardment|red|uncommon
+Repercussion|red|mythic
+Shared Animosity|red|rare
+Sneak Attack|red|mythic
+Defense of the Heart|green|mythic
+Doubling Season|green|mythic
+Garruk's Uprising|green|uncommon
+Ground Seal|green|uncommon
+Hardened Scales|green|rare
+Leyline of Abundance|green|rare
+Nature's Will|green|rare
+Parallel Lives|green|mythic
+Primal Vigor|green|rare
+Prismatic Omen|green|rare
+Season of Growth|green|uncommon
+Unnatural Growth|green|rare
+Utopia Sprawl|green|uncommon

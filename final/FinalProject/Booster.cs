@@ -25,8 +25,12 @@ public abstract class Booster
     }
     public string GetBotString()
     {
-        Console.WriteLine("Function not written: Booster.GetBotString()");
-        return "";
+        string output = "";
+        foreach (Card card in _cards)
+        {
+            output += card.GetSaveString() + "||";
+        }
+        return output;
     }
     public Card RemoveCard(string targetName)
     {
