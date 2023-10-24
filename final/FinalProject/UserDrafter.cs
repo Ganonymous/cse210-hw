@@ -2,9 +2,11 @@ public class UserDrafter : Drafter
 {
     public override void PickCard()
     {
+        Console.Clear();
         bool cardPicked = false;
         while (!cardPicked)
         {
+            Console.WriteLine();
             Console.WriteLine("Your booster contains:");
             Console.WriteLine(_currentBooster.GetDisplayString());
             Console.WriteLine("Enter the name of the card you want to pick, or press enter to review your pool.");
